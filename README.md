@@ -1,1 +1,1 @@
-#Calculating trading indicators with pandas
+Calculating trading indicators with pandas
